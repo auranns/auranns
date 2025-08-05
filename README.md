@@ -12,14 +12,15 @@ Turns out, I enjoy seeing my pixels move.
 ## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/--%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=" title="Figma" height="42"/>
-  <img src="https://img.shields.io/badge/--%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=" title="JavaScript" height="42"/>
-  <img src="https://img.shields.io/badge/--%23239120?style=for-the-badge&logo=c-sharp&logoColor=white&label=" title="C#" height="42"/>
-  <img src="https://img.shields.io/badge/--%23777BB4?style=for-the-badge&logo=php&logoColor=white&label=" title="PHP" height="42"/>
-  <img src="https://img.shields.io/badge/--%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&label=" title="Laravel" height="42"/>
-  <img src="https://img.shields.io/badge/--%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&label=" title="Tailwind CSS" height="42"/>
-  <img src="https://img.shields.io/badge/--%2361DAFB?style=for-the-badge&logo=react&logoColor=black&label=" title="React" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="48"/>
 </div>
+
 
 ---
 
