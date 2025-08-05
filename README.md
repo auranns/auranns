@@ -6,9 +6,8 @@ I started out as a UI/UX Designer — sketching screens, wireframing chaos, and 
 Turns out, I enjoy seeing my pixels move.
 
 🛠 Currently building: my personal portfolio + random UI shots  
-📫 Reach me at: [auranisavalent@email.com]
-🌐 My little space on the internet: *soon..
-
+📫 Reach me at: [auranisavalent@email.com](mailto:auranisavalent@email.com)  
+🌐 My little space on the internet: *soon...*
 
 ## 🛠 Tech Stack
 
