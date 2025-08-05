@@ -1,25 +1,25 @@
 # Hi there, I'm Aura! ✨
 
-👩‍💻 I’m a UI/UX Designer and Frontend Developer who loves crafting delightful digital experiences.
+A curious soul with a love for design and clean code.
+I started out as a UI/UX Designer — sketching screens, wireframing chaos, and giving life to ideas on Figma. But somehow, the universe pushed me deeper into frontend development. From static designs to responsive websites... and now I can't stop.
 
-🎨 I turn concepts into beautiful, user-friendly interfaces with Figma and bring them to life with React, Next.js, and Tailwind CSS.
+Turns out, I enjoy seeing my pixels move.
 
-🔭 Currently working on: personal portfolio & design projects.
-
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/auranisavalent) | [Email](mailto:auranisavalent@email.com)
-
+🛠 Currently building: my personal portfolio + random UI shots  
+📫 Reach me at: [auranisavalent@email.com](mailto:auranisavalent@email.com)  
+🌐 My little space on the internet: *(soon...)*
 ---
 
 ## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/--%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=" title="Figma"/>
+  <img src="https://img.shields.io/badge/--%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/--%23239120?style=for-the-badge&logo=c-sharp&logoColor=white&label=" title="C#"/>
+  <img src="https://img.shields.io/badge/--%23777BB4?style=for-the-badge&logo=php&logoColor=white&label=" title="PHP"/>
+  <img src="https://img.shields.io/badge/--%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&label=" title="Laravel"/>
+  <img src="https://img.shields.io/badge/--%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&label=" title="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/--%2361DAFB?style=for-the-badge&logo=react&logoColor=black&label=" title="React"/>
 </div>
 
 ---
