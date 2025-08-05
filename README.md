@@ -12,7 +12,7 @@
 
 ## 🛠 Tech Stack
 
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -26,7 +26,7 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=auranns&show_icons=true&theme=rose_pine&hide=prs&hide_rank=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auranns&layout=compact&langs_count=6&theme=rose_pine" height="165" />
 </p>
