@@ -8,6 +8,7 @@ Turns out, I enjoy seeing my pixels move.
 🛠 Currently building: my personal portfolio + random UI shots  
 📫 Reach me at: [auranisavalent@email.com](mailto:auranisavalent@email.com)  
 🌐 My little space on the internet: *soon...*
+🤍 Or you can also find me on [Instagram](https://www.instagram.com/aauranv) & [LinkedIn](https://www.linkedin.com/in/auranisavalent)  
 
 ## 🛠 Tech Stack
 
