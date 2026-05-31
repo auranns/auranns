@@ -22,3 +22,11 @@ Turns out, I enjoy seeing my pixels move.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auranns&layout=compact&theme=tokyonight&border_radius=15&title_color=ff79c6" height="165"/>
 </p>
+
+---
+
+## 🕹️ My GitHub Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/auranns/auranns/output/github-contribution-grid-snake.svg" alt="Github Pacman Animation" />
+</p>
