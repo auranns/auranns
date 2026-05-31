@@ -11,9 +11,14 @@ Turns out, I enjoy seeing my pixels move.
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My Dev Stats 🎮
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=auranns&show_icons=true&theme=rose_pine&hide=prs&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auranns&layout=compact&langs_count=6&theme=rose_pine" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=auranns&show_icons=true&theme=tokyonight&hide=prs&border_radius=15&title_color=ff79c6&icon_color=bd93f9" height="165"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auranns&theme=tokyonight&border_radius=15&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auranns&layout=compact&theme=tokyonight&border_radius=15&title_color=ff79c6" height="165"/>
 </p>
