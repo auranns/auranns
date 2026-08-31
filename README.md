@@ -5,10 +5,6 @@ I started out as a UI/UX Designer, wireframing chaos, and giving life to ideas o
 
 Turns out, I enjoy seeing my pixels move.
 
-🛠 Currently building: my personal portfolio + random UI shots  
-📫 Reach me at: [auranisavalent@email.com](mailto:auranisavalent@email.com)  
-🌐 My little space on the internet: *soon...*
-
 ---
 
 ## 📊 My Dev Stats 🎮
