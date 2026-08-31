@@ -1,7 +1,7 @@
 # Hi there, I'm Aura! ✨
 
 A curious soul with a love for design and clean code.
-I started out as a UI/UX Designer — sketching screens, wireframing chaos, and giving life to ideas on Figma. But somehow, the universe pushed me deeper into frontend development. From static designs to responsive websites... and now I can't stop.
+I started out as a UI/UX Designer, wireframing chaos, and giving life to ideas on Figma. But somehow, the universe pushed me deeper into frontend development. From static designs to responsive websites... and now I can't stop.
 
 Turns out, I enjoy seeing my pixels move.
 
